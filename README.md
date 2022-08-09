@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaychoudhary654329
 - 👀 I’m interested in .the software engineering and the tech world . Fire enthusiast and want to contribute to the open source community...
-- 🌱 I’m currently learning .about software development and exploring the other aspects like:- web development, cloud computing and android development..
+- 🌱 I have  currently just started learning .about software development at the noob level and exploring the other aspects like:- web development, cloud computing and android development..
 - 💞️ I’m looking to collaborate on ..software development.
 - 📫 How to reach me .reach me through email :-ajaychoudhary654329@gmail.com
 
